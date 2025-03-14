@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Tetris.dir/src/main.cpp.o CMakeFiles/Tetris.dir/src/core/Board.cpp.o CMakeFiles/Tetris.dir/src/core/Tetromino.cpp.o CMakeFiles/Tetris.dir/src/game/Game.cpp.o  -o Tetris  -lpthread 
